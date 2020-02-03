@@ -13,3 +13,4 @@ This is a simple model with an lstm layer with 64 cells followed by a dense laye
 
 ### Output
  It yields 16.24% training accuracy and 17.29 validation accuracy with pretrained embeddings. 
+
