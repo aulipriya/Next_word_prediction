@@ -2,6 +2,20 @@
 
 This project was started with the aim to clear the concepts of rnn and learning data preprocessing for sequence data. This project follows [this](https://towardsdatascience.com/recurrent-neural-networks-by-example-in-python-ffd204f99470 ) tutorial for concept and codes.
 
+### Prerequisites 
+* python3.6
+* sklearn 
+* keras
+
+
+### Install Requirements
+```Language
+pip install -r requirements.txt
+```
+### Run 
+```Language
+python training/train.py
+```
 ### Dataset 
 
 From [this](https://www.patentsview.org/query/) link all information on patents related to neural network are downloaded in a csv format and that is used as our data. 
